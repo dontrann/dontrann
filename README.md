@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Don Tran
+I'm a student at the University of Notre Dame studying Global Affairs with minors in Marketing and Data Science 
 
 <!--
 **dontrann/dontrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
