@@ -3,6 +3,16 @@ I'm a student at the University of Notre Dame, majoring in Global Affairs, with 
 
 I'm currently developing my skills in data analysis, visualization, and applied data science while using GitHub to document my projects, coursework, and continued learning.
 
+## Areas of Interest 
+📊 Data Science & Analytics
+🌎 Global Affairs & International Issues
+📈 Marketing & Business Strategy
+
+## Technical Skills
+Programming: Python, R, Java. 
+Data & Analytics: RStudio, Microsoft Excel. 
+Certification: Microsoft Excel Certified. 
+
 <!--
 **dontrann/dontrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
