@@ -3,8 +3,6 @@ I'm Don, a student at the University of Notre Dame, majoring in Global Affairs, 
   
 I'm currently developing my skills in data analysis, visualization, and applied data science while using GitHub to document my projects, coursework, and continued learning.
 
-- email: dtran2@nd.edu
-
 ## Areas of Interest 
 📊 Data Science & Analytics
 🌎 Global Affairs & International Issues
@@ -23,6 +21,14 @@ Programming: Python, Java.
 Data & Analytics: RStudio, Microsoft Excel. 
 Certification: Microsoft Excel Certified. 
 
+## Goals 
+- Strengthen my skills in Python and data science by applying them to real-world datasets and problems
+- Build a portfolio of projects that demonstrates my ability to analyze data, identify meaningful patterns, and communicate insights clearly
+- Develop experience with data visualization and interactive applications using tools such as Pandas, Seaborn, Plotly, and Streamlit
+- Gain hands-on experience with machine learning, predictive modeling, NLP, and large language models as I progress through my coursework
+
+## Contact Links
+- email: dtran2@nd.edu
 <!--
 **dontrann/dontrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
