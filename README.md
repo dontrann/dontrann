@@ -1,4 +1,4 @@
-## Hi, I'm Don Tran
+## Introduction
 I'm a student at the University of Notre Dame, majoring in Global Affairs, with minors in Marketing and Data Science. I'm interested in the intersection of data, business, technology, and global issues, particularly how data-driven insights can help organizations make better decisions and create meaningful impact.
   
 I'm currently developing my skills in data analysis, visualization, and applied data science while using GitHub to document my projects, coursework, and continued learning.
@@ -10,8 +10,12 @@ I'm currently developing my skills in data analysis, visualization, and applied 
 🌎 Global Affairs & International Issues
 📈 Marketing & Business Strategy
 
+
+## Current Projects
+Currently developing foundational skills in data science and Python, with upcoming projects focused on exploratory data analysis, data visualization, machine learning, and interactive data applications.Throughout the course, I will be working with tools and technologies including Python, Pandas, Seaborn, Plotly, and Streamlit, while exploring topics such as predictive modeling, neural networks, natural language processing (NLP), and large language models (LLMs).
+
 ## Technical Skills
-Programming: Python, R, Java. 
+Programming: Python, Java. 
 Data & Analytics: RStudio, Microsoft Excel. 
 Certification: Microsoft Excel Certified. 
 
