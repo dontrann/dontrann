@@ -12,7 +12,7 @@ I'm currently developing my skills in data analysis, visualization, and applied 
 
 
 ## Current Projects
-Currently developing foundational skills in data science and Python, with upcoming projects focused on exploratory data analysis, data visualization, machine learning, and interactive data applications.Throughout the course, I will be working with tools and technologies including Python, Pandas, Seaborn, Plotly, and Streamlit, while exploring topics such as predictive modeling, neural networks, natural language processing (NLP), and large language models (LLMs).
+Currently developing foundational skills in data science and Python, with upcoming projects focused on exploratory data analysis, data visualization, machine learning, and interactive data applications. Throughout the course, I will be working with tools and technologies including Python, Pandas, Seaborn, Plotly, and Streamlit, while exploring topics such as predictive modeling, neural networks, natural language processing (NLP), and large language models (LLMs).
 
 ## Technical Skills
 Programming: Python, Java. 
