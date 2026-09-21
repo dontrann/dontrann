@@ -11,8 +11,12 @@ I'm currently developing my skills in data analysis, visualization, and applied 
 📈 Marketing & Business Strategy
 
 
-## Current Projects
-Currently developing foundational skills in data science and Python, with upcoming projects focused on exploratory data analysis, data visualization, machine learning, and interactive data applications. Throughout the course, I will be working with tools and technologies including Python, Pandas, Seaborn, Plotly, and Streamlit, while exploring topics such as predictive modeling, neural networks, natural language processing (NLP), and large language models (LLMs).
+## Current Projects/Topics
+- Exploratory data analysis and visualization
+- Machine learning and predictive modeling
+- Interactive applications with Streamlit
+- Natural language processing and LLMs
+- Ethical and responsible data science
 
 ## Technical Skills
 Programming: Python, Java. 
