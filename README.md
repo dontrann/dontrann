@@ -17,9 +17,9 @@ I'm currently developing my skills in data analysis, visualization, and applied 
 - Ethical and responsible data science
 
 ## Technical Skills
-Programming**: Python, Java. 
-Data & Analytics**: RStudio, Microsoft Excel. 
-Certification**: Microsoft Excel Certified. 
+**Programming**: Python, Java. 
+**Data & Analytics**: RStudio, Microsoft Excel. 
+**Certification**: Microsoft Excel Certified. 
 
 ## Goals 
 - Strengthen my skills in Python and data science by applying them to real-world datasets and problems
