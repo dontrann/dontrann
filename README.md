@@ -3,12 +3,6 @@ I'm Don, a student at the University of Notre Dame, majoring in Global Affairs, 
   
 I'm currently developing my skills in data analysis, visualization, and applied data science while using GitHub to document my projects, coursework, and continued learning.
 
-## Areas of Interest 
-📊 Data Science & Analytics
-🌎 Global Affairs & International Issues
-📈 Marketing & Business Strategy
-
-
 ## Current Projects/Topics
 - Exploratory data analysis and visualization
 - Machine learning and predictive modeling
